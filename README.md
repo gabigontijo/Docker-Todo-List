@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Docker Todo List</h1>
 
 ## :memo: Description
-Application created to consolidate the knowledge of containerizing back-end and front-end applications with docker, dockerfiles and docker-compose..
+Application created to consolidate the knowledge of containerizing back-end and front-end applications with docker, dockerfiles and docker-compose.
 
 ## :books: Functionalities
 * <b>Containers</b>: Back-end and front-end container creation.
